@@ -1,3 +1,5 @@
+Note: the notebooks folder is where the most important stuff is at
+
 # ds
 
 ## Tools used in this project
