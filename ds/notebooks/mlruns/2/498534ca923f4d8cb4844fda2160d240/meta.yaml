@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/498534ca923f4d8cb4844fda2160d240/artifacts
+end_time: 1692363743510
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 498534ca923f4d8cb4844fda2160d240
+run_name: Gradient Boosting Regressor
+run_uuid: 498534ca923f4d8cb4844fda2160d240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363743100
+status: 3
+tags: []
+user_id: PC

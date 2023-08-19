@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/0/c61bed126ca54c68a973ccae40843772/artifacts
+end_time: 1692363394012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c61bed126ca54c68a973ccae40843772
+run_name: sincere-snipe-757
+run_uuid: c61bed126ca54c68a973ccae40843772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363391844
+status: 3
+tags: []
+user_id: PC

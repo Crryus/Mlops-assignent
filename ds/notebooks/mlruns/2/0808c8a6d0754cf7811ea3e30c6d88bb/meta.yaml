@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/0808c8a6d0754cf7811ea3e30c6d88bb/artifacts
+end_time: 1692262460677
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0808c8a6d0754cf7811ea3e30c6d88bb
+run_name: Dummy Regressor
+run_uuid: 0808c8a6d0754cf7811ea3e30c6d88bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692262460556
+status: 3
+tags: []
+user_id: PC

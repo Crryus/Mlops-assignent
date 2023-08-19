@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/00dab61c8f0249ff85cd2895121657b7/artifacts
+end_time: 1692363749617
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 00dab61c8f0249ff85cd2895121657b7
+run_name: Passive Aggressive Regressor
+run_uuid: 00dab61c8f0249ff85cd2895121657b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363749212
+status: 3
+tags: []
+user_id: PC

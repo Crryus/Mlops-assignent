@@ -1,0 +1,2 @@
+flat_type,storey_range,floor_area_sqm,flat_model,lease_commence_date,latitude,longitude,cbd_dist,min_dist_mrt,output,flag,username,timestamp
+3 ROOM,04 TO 06,60,Model A,1997,144,100,50,50,"{'flat_type': '3 ROOM', 'storey_range': '04 TO 06', 'floor_area_sqm': '60', 'flat_model': 'Model A', 'lease_commence_date': '1997', 'latitude': '144', 'longitude': '100', 'cbd_dist': '50', 'min_dist_mrt': '50', 'prediction_label': 422418.6373463814}",,,2023-08-18 21:16:46.126543

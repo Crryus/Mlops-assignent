@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/c9108cc548404afb9cfbdad1a3a2420a/artifacts
+end_time: 1692363739561
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c9108cc548404afb9cfbdad1a3a2420a
+run_name: CatBoost Regressor
+run_uuid: c9108cc548404afb9cfbdad1a3a2420a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363738846
+status: 3
+tags: []
+user_id: PC

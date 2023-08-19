@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/1bd7f56029374511b34c2b8447543a60/artifacts
+end_time: 1692363741266
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1bd7f56029374511b34c2b8447543a60
+run_name: Random Forest Regressor
+run_uuid: 1bd7f56029374511b34c2b8447543a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363740858
+status: 3
+tags: []
+user_id: PC

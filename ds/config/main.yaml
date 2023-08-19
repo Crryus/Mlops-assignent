@@ -1,0 +1,30 @@
+# This one is config file
+hydra:
+  output_subdir: null  
+  run:
+    dir: .
+
+defaults:
+  - process: process1
+  - model: model1
+  - _self_
+
+data:
+  raw: data/01_hdb_resale_transactions.csv
+  processed: data/processed/hdb_processed.csv
+  final: data/final/hdb_final.csv
+
+pipeline:
+  pipeline01: linearregresion
+
+target: # target varaible 
+  target: resale_price
+
+variables:
+# this is the variables that are dropped/ not used during model training.
+  drop_features: ['town','block','street_name','postal_code', 'month']
+#this is where the numerical and categorical variables are predefines using hydra so as to minimize hardcoding
+  numerical_vars_from_numerical:["floor_area_sqm", "lease_commence_date", "resale_price","latitude", "longtitude", "cbd_dist", "min_dist_mrt"]
+  categorical_vars: ["flat_type", "flat_model"] 
+  categorical_ordinal_features: ['storey_range']
+  # ordinal features is pretty much the only thing that i did in the pycaret setup

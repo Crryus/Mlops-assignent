@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/3.%20Flask/mlruns/1
+creation_time: 1692384583713
+experiment_id: '1'
+last_update_time: 1692384583713
+lifecycle_stage: active
+name: price_prediction

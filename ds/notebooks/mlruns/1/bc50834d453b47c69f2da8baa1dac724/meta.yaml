@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/1/bc50834d453b47c69f2da8baa1dac724/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc50834d453b47c69f2da8baa1dac724
+run_name: Session Initialized a6dd
+run_uuid: bc50834d453b47c69f2da8baa1dac724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692255927917
+status: 1
+tags: []
+user_id: PC

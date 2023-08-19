@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/cf22b3b6663b45b18ce4b05692249db2/artifacts
+end_time: 1692363747370
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cf22b3b6663b45b18ce4b05692249db2
+run_name: Elastic Net
+run_uuid: cf22b3b6663b45b18ce4b05692249db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363746973
+status: 3
+tags: []
+user_id: PC

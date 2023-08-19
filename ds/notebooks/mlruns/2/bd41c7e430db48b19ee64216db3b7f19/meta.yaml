@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/bd41c7e430db48b19ee64216db3b7f19/artifacts
+end_time: 1692363742939
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bd41c7e430db48b19ee64216db3b7f19
+run_name: K Neighbors Regressor
+run_uuid: bd41c7e430db48b19ee64216db3b7f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363742541
+status: 3
+tags: []
+user_id: PC

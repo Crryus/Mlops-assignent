@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/0/5f203e499b644b7bb9611814ddc29a3e/artifacts
+end_time: 1692362917524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f203e499b644b7bb9611814ddc29a3e
+run_name: adaptable-mink-968
+run_uuid: 5f203e499b644b7bb9611814ddc29a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692362915354
+status: 3
+tags: []
+user_id: PC

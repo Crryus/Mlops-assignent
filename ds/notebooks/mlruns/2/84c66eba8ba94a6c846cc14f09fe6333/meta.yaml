@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/84c66eba8ba94a6c846cc14f09fe6333/artifacts
+end_time: 1692363745162
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 84c66eba8ba94a6c846cc14f09fe6333
+run_name: Linear Regression
+run_uuid: 84c66eba8ba94a6c846cc14f09fe6333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363744774
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Predict Housing Prices</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='./style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict House Prices</h1>
+
+     <!-- Form to enter new data for predictions  -->
+    <form action="{{ url_for('predict')}}"method="POST">
+        <select name="flat_type" required="required">
+            <option value="" disabled selected>Select flat type</option>
+            <option value="3 ROOM">3 ROOM</option>
+            <option value="4 ROOM">4 ROOM</option>
+            <option value="2 ROOM">2 ROOM</option>
+            <option value="EXECUTIVE">EXECUTIVE</option>
+            <option value="5 ROOM">5 ROOM</option>
+            <option value="1 ROOM">1 ROOM</option>
+            <option value="MULTI-GENERATION">MULTI-GENERATION</option>
+
+        </select><br>
+        <select name="storey_range" required="required">
+            <option value="" disabled selected>Select storey range</option>
+            <option value="01-03">01-03</option>
+            <option value="04-06">04-06</option>
+            <option value="07-09">07-09</option>
+            <option value="10-12">10-12</option>
+            <option value="13-15">13-15</option>
+            <option value="16-18">16-18</option>
+            <option value="19-21">19-21</option>
+            <option value="22-24">22-24</option>
+            <option value="25-27">25-27</option>
+            <option value="28-30">28-30</option>
+            <option value="31-33">31-33</option>
+            <option value="34-36">34-36</option>
+            <option value="37-39">37-39</option>
+            <option value="40-42">40-42</option>
+            <option value="43-45">43-45</option>
+            <option value="46-48">46-48</option>
+            <option value="49-51">49-51</option>
+        <!-- Add more options as needed -->
+        </select><br>
+        <input type="text" name="floor_area_sqm" placeholder="floor_area_sqm" required="required" /><br>
+        <select name="flat_model" required="required">
+            <option value="" disabled selected>Select flat model</option>
+            <option value="Premium Maisonette">Premium Maisonette</option>
+            <option value="3Gen">3Gen</option>
+            <option value="Premium Apartment Loft">Premium Apartment Loft</option>
+            <option value="Terrace">Terrace</option>
+            <option value="Adjoined flat">Adjoined flat</option>
+            <option value="Improved-Maisonette">Improved-Maisonette</option>
+            <option value="Type S2">Type S2</option>
+            <option value="Multi Generation">Multi Generation</option>
+            <option value="2-room">2-room</option>
+            <option value="Model A2">Model A2</option>
+            <option value="Standard">Standard</option>
+            <option value="Type S1">Type S1</option>
+            <option value="Model A-Maisonette">Model A-Maisonette</option>
+            <option value="Maisonette">Maisonette</option>
+            <option value="Simplified">Simplified</option>
+            <option value="DBSS">DBSS</option>
+            <option value="Improved">Improved</option>
+            <option value="Apartment">Apartment</option>
+            <option value="Premium Apartment">Premium Apartment</option>
+            <option value="New Generation">New Generation</option>
+            <option value="Model A">Model A</option>
+            </select><br>
+        <input type="text" name="lease_commence_date" placeholder="lease_commence_date" required="required" /><br>
+        <input type="text" name="latitude" placeholder="latitude" required="required" /><br>
+        <input type="text" name="longitude" placeholder="longitude" required="required" /><br>
+        <input type="text" name="cbd_dist" placeholder="cbd_dist" required="required" /><br>
+        <input type="text" name="min_dist_mrt" placeholder="min_dist_mrt" required="required" /><br>
+
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+  
+   
+ </div>
+ {{pred}}
+
+</body>
+</html>

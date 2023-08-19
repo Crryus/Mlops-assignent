@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/2d9646a88b094631a257b7ce154ba370/artifacts
+end_time: 1692363741824
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2d9646a88b094631a257b7ce154ba370
+run_name: Extra Trees Regressor
+run_uuid: 2d9646a88b094631a257b7ce154ba370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363741426
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Mlops%20assignent/ds/notebooks/mlruns/2/35b62e3787294838af4ea6d944d26853/artifacts
+end_time: 1692363747927
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 35b62e3787294838af4ea6d944d26853
+run_name: Lasso Regression
+run_uuid: 35b62e3787294838af4ea6d944d26853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692363747532
+status: 3
+tags: []
+user_id: PC
