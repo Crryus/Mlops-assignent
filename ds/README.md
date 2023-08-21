@@ -10,11 +10,11 @@ Note: the notebooks folder is where the most important stuff is at
 * [pdoc](https://github.com/pdoc3/pdoc): Automatically create an API documentation for your project
 
 ## Folder structure
-**data** - the folders where are all the data that we used for this project is at
-*
-**models** - the folders where all of our model are saved after using Pycaret
-*
-**Hydra** - the folders where all our **conceptual** configurations for usage of Hydra is at
-*
-**notebooks** - the folders that consists of our notebooks that are used to create the model and run the application as well as consisting the folders that have the html and the css files for our application
+- **data** - the folders where are all the data that we used for this project is at
+- 
+- **models** - the folders where all of our model are saved after using Pycaret
+- 
+- **Hydra** - the folders where all our **conceptual** configurations for usage of Hydra is at
+- 
+- **notebooks** - the folders that consists of our notebooks that are used to create the model and run the application as well as consisting the folders that have the html and the css files for our application
 
